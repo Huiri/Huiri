@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Huiri's GitHub stats](https://github-readme-stats.vercel.app/api?username=Huiri&show_icons=true&theme=tokyonight) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=깃허브 닉네임&layout=레이아웃 스타일&theme=tokyonight)
+github-readme-stats.vercel.app/api/top-langs/?username={Huiri}&langs_count=4
